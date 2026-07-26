@@ -23,7 +23,8 @@ Detected Game：确保自动变为 Paks（否则手动修改）
 
 ## 三、AES 加载
 获取储存 AES Key 的文件链接
-本项目AESkey文件链接为：https://raw.githubusercontent.com/HanKongXingYu/DeltaForce_Unpacking/refs/heads/main/FModel/AES_Keys_1.json
+本项目AESkey文件链接为：[https://raw.githubusercontent.com/HanKongXingYu/DeltaForce_Unpacking/refs/heads/main/FModel/AES_Keys_1.json](https://raw.githubusercontent.com/sannnnnnns/AES_Keys/refs/heads/main/AES_Keys.json)
+
 菜单栏点击 Settings → 找到 AES 并点击
 在 AES 配置界面：
 左侧输入框中填入储存 AES Key 的文件链接，点击 Send
@@ -33,7 +34,8 @@ Detected Game：确保自动变为 Paks（否则手动修改）
 菜单栏点击 Directory → AES，进入 AES manager 窗口
 点击 Refresh 等待加载
 向下滚动，确保所有文件都已填入 Key，点击 OK
-四、加载 PAK 文件
+
+## 四、加载 PAK 文件
 所有文件亮起（变为可加载状态）后：
 
 单独打开：双击某个 PAK 文件
